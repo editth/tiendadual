@@ -1,0 +1,2 @@
+# tiendadual
+dual
